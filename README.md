@@ -2,7 +2,7 @@
 # BloggingSystem
 
 ## Prerequisites
-- .NET Core 3.1 SDK
+- .NET Core 3.1 and above SDK
 - Docker and Docker Compose
 
 ## Building and Running the Application
